@@ -1,8 +1,3 @@
-[Pirate|eyeCount: Int|raid();pillage()|
-  [beard]--[parrot]
-  [beard]-:>[foul mouth]
-]
-
 .. uml::
    :alt: Software Design Diagram
 
