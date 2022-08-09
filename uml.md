@@ -1,4 +1,4 @@
-```plantuml
-Bob -> Alice : hello
-Alice -> Bob : hi
-```
+[Pirate|eyeCount: Int|raid();pillage()|
+  [beard]--[parrot]
+  [beard]-:>[foul mouth]
+]
