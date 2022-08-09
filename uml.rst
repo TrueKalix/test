@@ -1,9 +1,12 @@
+.. plantuml::
+   :caption: Caption with **bold** and *italic*
+
+   Bob -> Alice: hello
+   Alice -> Bob: hi
+   
+   
 .. uml::
-   :alt: Software Design Diagram
+   :caption: Caption with **bold** and *italic*
 
-   @startuml
-   abstract class Dog
-   class Labrador
-
-   Dog <|-- Labrador
-   @enduml
+   Bob -> Alice: hello
+   Alice -> Bob: hi
